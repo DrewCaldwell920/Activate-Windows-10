@@ -1,1 +1,4 @@
-welp
+To download the iso, please fallow the steps found in the images.
+The page will need to be refreshed after they are fallowed
+Then download the iso and customize your download.
+Change your google network settings after.
